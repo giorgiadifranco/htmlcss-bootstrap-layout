@@ -1,3 +1,16 @@
+:root{
+    --boot-w:#f8f9fa;
+    --boot-g: #6c757d;
+    --boot-b: #0d6efd;
+    --boot-gn: #198754;
+    --boot-red: #dc3545;
+    --boot-lb: #0dcaf0;
+    --boot-ylw: #ffc107;
+    --boot-blk:#212529;
+    
+}
+
+
 .debug main .row{
     min-height: 300px;
     border: 1px dashed;
